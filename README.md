@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m am student<br>🌱 I’m currently learning web development and problem solving<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m am student<br>🌱 I’m currently learning web development and problem solving<br>
 
 
 ## 🌐 Socials:
